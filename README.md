@@ -1,7 +1,7 @@
 Machine Learning
-ISLP James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (2023). Springer (disponible Timbó). 
+ISLP James, G., Witten, D., Hastie, T., & Tibshirani, R. (2013). An introduction to statistical learning (2023). Springer (disponible [online](https://www.statlearning.com/)). 
 
-| Semana | Lectura | Slides | Tarea |
+| Semana |Tema | Lectura | Slides | Tarea |
 |----------|----------|----------|-----|
-| Data A1  | Data B1  | Data C1  | T1|
-| Data A2  | Data B2  | Data C2  |T2|
+| 1  | Introducción  |ISLP. Cap 2  | Weba / ISLP Slides Cap 2  | ISLP |
+| 2  | Modelos lineales - Regresión |ISLP. Cap 3 | Data C2  |T2|
